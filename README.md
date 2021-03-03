@@ -1,0 +1,1 @@
+In this codelab, you will create a locator that draws from a live data feed of specialized locations and helps the user find the location nearest their starting point. This full-stack locator can handle much larger numbers of places than the simple store locator, which is limited to 25 or fewer store locations.
